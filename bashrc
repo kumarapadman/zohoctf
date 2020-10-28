@@ -1,1 +1,1 @@
-/home/kumaran/.bashrc
+~/.bashrc
